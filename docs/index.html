@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>1 free, private web tools that run in your browser</title>
+<meta name="description" content="1 free, open-source web tools for images, PDFs, code, text, data and audio that run entirely in your browser: nothing is uploaded, no account, no ads, works off">
+<meta name="color-scheme" content="light dark">
+<link rel="canonical" href="https://turhe123.github.io/web-tools/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="1 free, private web tools that run in your browser">
+<meta property="og:description" content="1 free, open-source web tools for images, PDFs, code, text, data and audio that run entirely in your browser: nothing is uploaded, no account, no ads, works off">
+<meta property="og:url" content="https://turhe123.github.io/web-tools/">
+<meta property="og:image" content="https://turhe123.github.io/compress-image-to-kb/docs/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#0e0f14">
+<link rel="icon" href="https://turhe123.github.io/compress-image-to-kb/icon.svg">
+<style>
+:root{--bg:#f6f7fb;--bg-2:#fff;--bg-3:#eef0f6;--fg:#13151c;--fg-2:#3c4150;--muted:#6b7184;--line:#dfe2ec;--line-2:#c9cdda;--accent:#5b4bdb;--accent-2:#0ea5c6;--grad:linear-gradient(135deg,#5b4bdb,#0ea5c6);--radius:16px;--font:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Inter,system-ui,sans-serif;color-scheme:light}
+@media (prefers-color-scheme:dark){:root{--bg:#0e0f14;--bg-2:#161822;--bg-3:#1d2030;--fg:#eceef5;--fg-2:#c3c7d6;--muted:#8b90a5;--line:#262a3a;--line-2:#343950;--accent:#8b7cf6;--accent-2:#22d3ee;color-scheme:dark}}
+*{box-sizing:border-box}html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--font);line-height:1.5;-webkit-font-smoothing:antialiased}
+body::before{content:"";position:fixed;inset:0;z-index:-1;background:radial-gradient(900px 500px at 15% -10%,rgba(91,75,219,.18),transparent 60%),radial-gradient(800px 500px at 90% 0%,rgba(14,165,198,.12),transparent 60%)}
+a{color:inherit}
+.container{max-width:1180px;margin:0 auto;padding:0 16px}
+header{padding:64px 0 24px;text-align:center}
+.eyebrow{display:inline-block;font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);border:1px solid var(--line-2);border-radius:999px;padding:6px 14px;background:var(--bg-2)}
+h1{font-size:clamp(32px,8vw,64px);overflow-wrap:anywhere;letter-spacing:-.03em;line-height:1.04;margin:20px 0 14px;font-weight:800}
+h1 em{font-style:normal;background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent}
+.sub{max-width:720px;margin:0 auto;color:var(--fg-2);font-size:clamp(16px,2.2vw,19px)}
+.stats{display:flex;flex-wrap:wrap;justify-content:center;gap:10px;margin:26px 0 0}
+.stat{font-size:13px;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:6px 12px;background:var(--bg-2)}
+.stat b{color:var(--fg);font-weight:600}
+.toolbar{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--bg) 85%,transparent);backdrop-filter:saturate(1.4) blur(14px);-webkit-backdrop-filter:saturate(1.4) blur(14px);border-bottom:1px solid var(--line);padding:12px 0}
+.toolbar-inner{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.chips{display:flex;flex-wrap:wrap;gap:8px;min-width:0}
+.chip{font:inherit;font-size:13px;color:var(--fg-2);background:var(--bg-2);border:1px solid var(--line);border-radius:999px;padding:7px 12px;cursor:pointer}
+.chip span{color:var(--muted);margin-left:4px}
+.chip:hover{border-color:var(--line-2);color:var(--fg)}
+.chip.active{background:var(--grad);border-color:transparent;color:#fff}.chip.active span{color:rgba(255,255,255,.8)}
+.search{margin-left:auto;font:inherit;font-size:14px;color:var(--fg);background:var(--bg-2);border:1px solid var(--line);border-radius:999px;padding:8px 14px;min-width:220px;outline:none}
+.search:focus{border-color:var(--accent)}
+section.cat{padding:40px 0 8px}
+section.cat h2{font-size:28px;letter-spacing:-.02em;margin:0 0 6px}
+section.cat p{margin:0 0 20px;color:var(--muted)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(300px,100%),1fr));gap:18px}
+.grid>*{min-width:0}
+.card{display:flex;flex-direction:column;min-width:0;background:var(--bg-2);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;transition:transform .25s cubic-bezier(.22,1,.36,1),border-color .25s}
+.card:hover{transform:translateY(-3px);border-color:var(--line-2)}
+.shot{aspect-ratio:16/10;overflow:hidden;background:var(--bg-3);display:block;border-bottom:1px solid var(--line)}
+.shot img{width:100%;height:100%;object-fit:cover;object-position:top;display:block}
+.body{padding:16px 16px 14px;display:flex;flex-direction:column;gap:10px;flex:1}
+.title{display:flex;align-items:center;gap:10px}
+.title img{width:30px;height:30px;border-radius:8px;flex:none}
+.title h3{font-size:18px;margin:0;letter-spacing:-.01em}
+.tag{font-size:14.5px;color:var(--fg-2);margin:0;flex:1}
+.alt{font-size:12.5px;color:var(--muted)}.alt b{color:var(--accent);font-weight:600}
+.actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:4px}
+.btn{font-size:13px;text-decoration:none;padding:7px 12px;border-radius:999px;border:1px solid var(--line-2);color:var(--fg)}
+.btn:hover{background:var(--bg-3)}
+.btn.primary{background:var(--grad);border-color:transparent;color:#fff;font-weight:600}
+.empty{display:none;text-align:center;color:var(--muted);padding:60px 0}
+.note{margin:48px 0 0;padding:18px 20px;border:1px solid var(--line);border-radius:var(--radius);background:var(--bg-2);color:var(--fg-2);font-size:14.5px}
+footer{margin-top:60px;border-top:1px solid var(--line);padding:28px 0 48px;color:var(--muted);font-size:14px}
+footer .inner{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between}
+footer a{color:var(--fg-2);text-decoration:none;margin-left:16px}footer a:hover{color:var(--fg)}
+html,body{max-width:100%;overflow-x:hidden}
+@media (max-width:640px){header{padding-top:40px}.toolbar{position:static;backdrop-filter:none;-webkit-backdrop-filter:none}.toolbar-inner{flex-direction:column;align-items:stretch}.search{margin-left:0;width:100%;order:-1;font-size:16px}.chip{font-size:12.5px;padding:6px 10px}section.cat h2{font-size:23px}footer a{margin:0 14px 0 0}}
+</style>
+<!-- Page views are counted with GoatCounter: no cookies, no personal data, open source. -->
+<script data-goatcounter="https://turhe123.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</head>
+<body>
+<header class="container">
+  <span class="eyebrow">Private · Offline-first · MIT licensed</span>
+  <h1>1 free web tools that<br><em>run in your browser</em></h1>
+  <p class="sub">Image, PDF, developer, text, data, audio and design tools. Nothing is uploaded, no account, no ads, works offline. Each one is a free, open-source alternative to a paid or upload-based web tool.</p>
+  <div class="stats"><span class="stat"><b>1</b> tools</span><span class="stat"><b>0</b> uploads</span><span class="stat"><b>0</b> trackers</span><span class="stat"><b>MIT</b> license</span><span class="stat"><a href="https://ko-fi.com/leodavidai" style="text-decoration:none">Support on Ko-fi ❤️</a></span><span class="stat"><a href="https://turhe123.github.io/mac-apps/" style="text-decoration:none">Also: 100 free Mac apps →</a></span></div>
+</header>
+<div class="toolbar"><div class="container toolbar-inner"><div class="chips"><button class="chip active" data-cat="all">All <span>1</span></button><button class="chip" data-cat="Images">Images <span>1</span></button></div><input class="search" type="search" placeholder="Search tools or the paid alternatives…" aria-label="Search"></div></div>
+<main class="container" id="main"></main>
+<p class="empty container" id="empty">No tool matches that search.</p>
+<div class="container"><div class="note">Every tool is a single static page: open it, drop your files, download the result. Files are processed on your device and never sent anywhere; after the first visit each page works offline and can be installed as an app. All of them were written by Claude Code from a spec, clean-room, tested headless in Chromium, with the full source on GitHub. <a href="https://github.com/turhe123/web-tools#how-these-were-built">How and why</a>.</div></div>
+<footer><div class="container inner"><span>© 2026 Or Davidai Bachar · MIT License</span><span><a href="https://github.com/turhe123/web-tools">GitHub</a><a href="https://turhe123.github.io/mac-apps/">Mac apps</a><a href="https://ko-fi.com/leodavidai">Ko-fi</a></span></div></footer>
+<script>
+const TOOLS=[{"slug": "compress-image-to-kb", "name": "Compress Image to Exact KB", "tagline": "Shrink a photo to a target size like 50, 100 or 200 KB in your browser, with no upload.", "category": "Images", "comp": "iLoveIMG Compress Image and ReduceImages", "keywords": ["compress image to 100kb", "reduce image size in kb", "compress jpg to 50kb", "resize photo to 200kb", "image size reducer online", "compress photo for form upload", "reduce jpeg file size without losing quality"], "hero": "https://turhe123.github.io/compress-image-to-kb/docs/screenshots/01-desktop-light.png", "alt": "Compress Image to Exact KB at 1440×900, light theme", "icon": "https://turhe123.github.io/compress-image-to-kb/icon.svg", "site": "https://turhe123.github.io/compress-image-to-kb/", "gh": "https://github.com/turhe123/compress-image-to-kb"}];
+const ORDER=["Images"];const BLURB={"Images": "Convert, compress, resize and clean up images without uploading them."};
+const main=document.getElementById('main'),empty=document.getElementById('empty');
+function esc(s){return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'})[c])}
+function card(a){return `<article class="card" data-cat="${esc(a.category)}"><a class="shot" href="${a.site}"><img loading="lazy" src="${a.hero}" alt="${esc(a.alt)}"></a><div class="body"><div class="title"><img src="${a.icon}" alt=""><h3><a href="${a.site}" style="text-decoration:none">${esc(a.name)}</a></h3></div><p class="tag">${esc(a.tagline)}</p><div class="alt">Free alternative to <b>${esc(a.comp)}</b></div><div class="actions"><a class="btn primary" href="${a.site}">Open tool</a><a class="btn" href="${a.gh}">GitHub</a></div></div></article>`}
+function render(cat,q){q=(q||'').trim().toLowerCase();let n=0;main.innerHTML=ORDER.map(c=>{if(cat!=='all'&&cat!==c)return '';const list=TOOLS.filter(a=>a.category===c&&(!q||(a.name+' '+a.tagline+' '+a.comp+' '+a.slug+' '+(a.keywords||[]).join(' ')).toLowerCase().includes(q)));n+=list.length;if(!list.length)return '';return `<section class="cat" id="${c.toLowerCase().replace(/[^a-z0-9]+/g,'-')}"><h2>${esc(c)}</h2><p>${esc(BLURB[c]||'')}</p><div class="grid">${list.map(card).join('')}</div></section>`}).join('');empty.style.display=n?'none':'block'}
+let cat='all';const chips=[...document.querySelectorAll('.chip')],search=document.querySelector('.search');
+chips.forEach(b=>b.addEventListener('click',()=>{chips.forEach(x=>x.classList.toggle('active',x===b));cat=b.dataset.cat;render(cat,search.value)}));
+search.addEventListener('input',()=>render(cat,search.value));
+render('all','');
+</script>
+</body></html>
