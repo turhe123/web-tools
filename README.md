@@ -1,4 +1,4 @@
-# 21 free, private web tools that run in your browser
+# 31 free, private web tools that run in your browser
 
 Single-purpose tools for images, PDFs, developers, text, data, audio and design. Every one is free, open source (MIT), runs entirely in your browser, needs no account, shows no ads and works offline after the first visit. Nothing you drop on a page is ever uploaded. Each tool is a free alternative to a paid or upload-based web tool you may already know.
 
@@ -10,7 +10,8 @@ Single-purpose tools for images, PDFs, developers, text, data, audio and design.
 - [PDF](#pdf) (10)
 - [Developer Tools](#developer-tools) (5)
 - [Text & Writing](#text-writing) (2)
-- [Data & Files](#data-files) (1)
+- [Data & Files](#data-files) (9)
+- [Generators & Calculators](#generators-calculators) (2)
 - [Privacy & Security](#privacy-security) (1)
 - [Productivity & Time](#productivity-time) (1)
 
@@ -66,7 +67,24 @@ CSV, JSON, spreadsheets, archives, checksums and codes.
 
 | | Tool | What it does | Free alternative to | Links |
 |---|---|---|---|---|
+| <img src="https://turhe123.github.io/zip-files-local/icon.svg" width="28" alt=""> | **[Create ZIP File Online](https://turhe123.github.io/zip-files-local/)** | Pick or drop files and folders and build a ZIP right in your browser, with a compression level and no upload. | ezyZip Create Zip | [Open](https://turhe123.github.io/zip-files-local/) · [GitHub](https://github.com/turhe123/zip-files-local) |
+| <img src="https://turhe123.github.io/csv-cleaner-dedupe/icon.svg" width="28" alt=""> | **[CSV Cleaner and Deduplicator](https://turhe123.github.io/csv-cleaner-dedupe/)** | Trim, deduplicate and tidy a CSV in your browser, see what changed, then download the clean file. | Datablist CSV Cleaner and Mr. Data Converter style online CSV dedupe tools | [Open](https://turhe123.github.io/csv-cleaner-dedupe/) · [GitHub](https://github.com/turhe123/csv-cleaner-dedupe) |
+| <img src="https://turhe123.github.io/csv-to-excel-local/icon.svg" width="28" alt=""> | **[CSV to Excel Converter](https://turhe123.github.io/csv-to-excel-local/)** | Turn CSV files into a real XLSX workbook in your browser, with delimiter detection and no upload. | Convertio and Zamzar CSV to Excel | [Open](https://turhe123.github.io/csv-to-excel-local/) · [GitHub](https://github.com/turhe123/csv-to-excel-local) |
 | <img src="https://turhe123.github.io/csv-to-json-converter/icon.svg" width="28" alt=""> | **[CSV to JSON Converter](https://turhe123.github.io/csv-to-json-converter/)** | Convert CSV files to JSON, and back, with delimiter detection in your browser, no upload. | ConvertCSV and CSVJSON online converters | [Open](https://turhe123.github.io/csv-to-json-converter/) · [GitHub](https://github.com/turhe123/csv-to-json-converter) |
+| <img src="https://turhe123.github.io/excel-to-csv-local/icon.svg" width="28" alt=""> | **[Excel to CSV Converter](https://turhe123.github.io/excel-to-csv-local/)** | Convert XLSX and XLS sheets to clean CSV in your browser, pick the sheet and delimiter, nothing uploaded. | Convertio Excel to CSV | [Open](https://turhe123.github.io/excel-to-csv-local/) · [GitHub](https://github.com/turhe123/excel-to-csv-local) |
+| <img src="https://turhe123.github.io/csv-viewer-local/icon.svg" width="28" alt=""> | **[Large CSV Viewer and Search](https://turhe123.github.io/csv-viewer-local/)** | Open big CSV files in your browser, sort, filter and search rows quickly, with nothing uploaded. | ConvertCSV Viewer and Datablist online CSV viewers | [Open](https://turhe123.github.io/csv-viewer-local/) · [GitHub](https://github.com/turhe123/csv-viewer-local) |
+| <img src="https://turhe123.github.io/qr-code-reader-local/icon.svg" width="28" alt=""> | **[QR Code Reader from Image](https://turhe123.github.io/qr-code-reader-local/)** | Drop a screenshot or photo and read the QR code inside it in your browser, or scan with your camera, no upload. | ZXing Decoder Online, WebQR and online QR scanners | [Open](https://turhe123.github.io/qr-code-reader-local/) · [GitHub](https://github.com/turhe123/qr-code-reader-local) |
+| <img src="https://turhe123.github.io/table-to-markdown-local/icon.svg" width="28" alt=""> | **[Table to Markdown Converter](https://turhe123.github.io/table-to-markdown-local/)** | Paste a table from Excel, Sheets or CSV and get a clean Markdown table in your browser, nothing sent anywhere. | TablesGenerator and Table Convert | [Open](https://turhe123.github.io/table-to-markdown-local/) · [GitHub](https://github.com/turhe123/table-to-markdown-local) |
+| <img src="https://turhe123.github.io/unzip-files-local/icon.svg" width="28" alt=""> | **[Unzip Files Online](https://turhe123.github.io/unzip-files-local/)** | Open a ZIP in your browser, browse its files, and save one or all of them, with nothing uploaded. | ezyZip Unzip | [Open](https://turhe123.github.io/unzip-files-local/) · [GitHub](https://github.com/turhe123/unzip-files-local) |
+
+## Generators & Calculators
+
+Documents, passwords, placeholders, units and dates.
+
+| | Tool | What it does | Free alternative to | Links |
+|---|---|---|---|---|
+| <img src="https://turhe123.github.io/barcode-maker-local/icon.svg" width="28" alt=""> | **[Barcode Maker for Labels](https://turhe123.github.io/barcode-maker-local/)** | Create Code 128, EAN-13 and UPC barcodes as PNG or SVG in your browser, with check digits and no watermark. | Barcode Generator at barcode-generator.org and TEC-IT online | [Open](https://turhe123.github.io/barcode-maker-local/) · [GitHub](https://github.com/turhe123/barcode-maker-local) |
+| <img src="https://turhe123.github.io/qr-code-maker-local/icon.svg" width="28" alt=""> | **[Static QR Code Maker](https://turhe123.github.io/qr-code-maker-local/)** | Make QR codes for links, Wi-Fi, text and contacts in your browser, saved as PNG or SVG that never expire. | QR Code Generator Pro and QR Code Monkey | [Open](https://turhe123.github.io/qr-code-maker-local/) · [GitHub](https://github.com/turhe123/qr-code-maker-local) |
 
 ## Privacy & Security
 
