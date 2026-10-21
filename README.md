@@ -1,4 +1,4 @@
-# 31 free, private web tools that run in your browser
+# 41 free, private web tools that run in your browser
 
 Single-purpose tools for images, PDFs, developers, text, data, audio and design. Every one is free, open source (MIT), runs entirely in your browser, needs no account, shows no ads and works offline after the first visit. Nothing you drop on a page is ever uploaded. Each tool is a free alternative to a paid or upload-based web tool you may already know.
 
@@ -11,6 +11,7 @@ Single-purpose tools for images, PDFs, developers, text, data, audio and design.
 - [Developer Tools](#developer-tools) (5)
 - [Text & Writing](#text-writing) (2)
 - [Data & Files](#data-files) (9)
+- [Audio & Video](#audio-video) (10)
 - [Generators & Calculators](#generators-calculators) (2)
 - [Privacy & Security](#privacy-security) (1)
 - [Productivity & Time](#productivity-time) (1)
@@ -76,6 +77,23 @@ CSV, JSON, spreadsheets, archives, checksums and codes.
 | <img src="https://turhe123.github.io/qr-code-reader-local/icon.svg" width="28" alt=""> | **[QR Code Reader from Image](https://turhe123.github.io/qr-code-reader-local/)** | Drop a screenshot or photo and read the QR code inside it in your browser, or scan with your camera, no upload. | ZXing Decoder Online, WebQR and online QR scanners | [Open](https://turhe123.github.io/qr-code-reader-local/) · [GitHub](https://github.com/turhe123/qr-code-reader-local) |
 | <img src="https://turhe123.github.io/table-to-markdown-local/icon.svg" width="28" alt=""> | **[Table to Markdown Converter](https://turhe123.github.io/table-to-markdown-local/)** | Paste a table from Excel, Sheets or CSV and get a clean Markdown table in your browser, nothing sent anywhere. | TablesGenerator and Table Convert | [Open](https://turhe123.github.io/table-to-markdown-local/) · [GitHub](https://github.com/turhe123/table-to-markdown-local) |
 | <img src="https://turhe123.github.io/unzip-files-local/icon.svg" width="28" alt=""> | **[Unzip Files Online](https://turhe123.github.io/unzip-files-local/)** | Open a ZIP in your browser, browse its files, and save one or all of them, with nothing uploaded. | ezyZip Unzip | [Open](https://turhe123.github.io/unzip-files-local/) · [GitHub](https://github.com/turhe123/unzip-files-local) |
+
+## Audio & Video
+
+Trim, convert and subtitle media in the browser.
+
+| | Tool | What it does | Free alternative to | Links |
+|---|---|---|---|---|
+| <img src="https://turhe123.github.io/audio-joiner-merge/icon.svg" width="28" alt=""> | **[Audio Joiner and Merger](https://turhe123.github.io/audio-joiner-merge/)** | Join several audio files into one MP3 or WAV in your browser with drag to reorder and crossfade. | Audio Joiner at 123apps | [Open](https://turhe123.github.io/audio-joiner-merge/) · [GitHub](https://github.com/turhe123/audio-joiner-merge) |
+| <img src="https://turhe123.github.io/audio-volume-booster/icon.svg" width="28" alt=""> | **[Audio Volume Booster and Normalizer](https://turhe123.github.io/audio-volume-booster/)** | Make quiet audio louder or normalize it to a target level in your browser, with no upload. | Online MP3 volume booster and louder tools such as Clideo Change Volume and 123apps Volume Changer | [Open](https://turhe123.github.io/audio-volume-booster/) · [GitHub](https://github.com/turhe123/audio-volume-booster) |
+| <img src="https://turhe123.github.io/audio-waveform-image-maker/icon.svg" width="28" alt=""> | **[Audio Waveform Image Maker](https://turhe123.github.io/audio-waveform-image-maker/)** | Turn any audio file into a waveform picture as PNG or SVG in your browser, with no watermark. | Kapwing and Veed audio waveform visualizers | [Open](https://turhe123.github.io/audio-waveform-image-maker/) · [GitHub](https://github.com/turhe123/audio-waveform-image-maker) |
+| <img src="https://turhe123.github.io/extract-audio-from-video/icon.svg" width="28" alt=""> | **[Extract Audio from Video](https://turhe123.github.io/extract-audio-from-video/)** | Pull the sound out of a video as MP3 or WAV in your browser, with nothing uploaded. | Online Audio Converter and Video to MP3 sites such as 123apps and CloudConvert | [Open](https://turhe123.github.io/extract-audio-from-video/) · [GitHub](https://github.com/turhe123/extract-audio-from-video) |
+| <img src="https://turhe123.github.io/mp3-cutter-local/icon.svg" width="28" alt=""> | **[MP3 Cutter and Audio Trimmer](https://turhe123.github.io/mp3-cutter-local/)** | Cut and trim MP3, WAV and M4A clips with a waveform in your browser, with nothing uploaded. | MP3 Cutter at mp3cut.net | [Open](https://turhe123.github.io/mp3-cutter-local/) · [GitHub](https://github.com/turhe123/mp3-cutter-local) |
+| <img src="https://turhe123.github.io/mute-video-remove-audio/icon.svg" width="28" alt=""> | **[Mute Video and Remove Audio](https://turhe123.github.io/mute-video-remove-audio/)** | Strip the sound from a video in your browser without re-encoding, with no watermark and no upload. | Clideo Mute Video and Kapwing Remove Audio from Video | [Open](https://turhe123.github.io/mute-video-remove-audio/) · [GitHub](https://github.com/turhe123/mute-video-remove-audio) |
+| <img src="https://turhe123.github.io/srt-to-vtt-converter/icon.svg" width="28" alt=""> | **[SRT to VTT Subtitle Converter](https://turhe123.github.io/srt-to-vtt-converter/)** | Convert SRT subtitles to WebVTT and back in your browser, in batches, with nothing uploaded. | Subtitle Converter sites such as Subtitle Tools and online SRT to VTT converters | [Open](https://turhe123.github.io/srt-to-vtt-converter/) · [GitHub](https://github.com/turhe123/srt-to-vtt-converter) |
+| <img src="https://turhe123.github.io/subtitle-timing-shifter/icon.svg" width="28" alt=""> | **[Subtitle Timing Shifter](https://turhe123.github.io/subtitle-timing-shifter/)** | Shift or stretch SRT and VTT subtitle timing to fix out of sync captions in your browser, no upload. | Subtitle Tools Sync and online subtitle shifters | [Open](https://turhe123.github.io/subtitle-timing-shifter/) · [GitHub](https://github.com/turhe123/subtitle-timing-shifter) |
+| <img src="https://turhe123.github.io/video-to-gif-local/icon.svg" width="28" alt=""> | **[Video to GIF Converter](https://turhe123.github.io/video-to-gif-local/)** | Turn a video clip into a looping GIF in your browser, with size and speed controls and no upload. | EZGIF Video to GIF | [Open](https://turhe123.github.io/video-to-gif-local/) · [GitHub](https://github.com/turhe123/video-to-gif-local) |
+| <img src="https://turhe123.github.io/wav-to-mp3-local/icon.svg" width="28" alt=""> | **[WAV to MP3 Converter](https://turhe123.github.io/wav-to-mp3-local/)** | Convert WAV, FLAC, M4A and OGG files to MP3 in your browser with chosen bitrate, no upload. | CloudConvert WAV to MP3 | [Open](https://turhe123.github.io/wav-to-mp3-local/) · [GitHub](https://github.com/turhe123/wav-to-mp3-local) |
 
 ## Generators & Calculators
 
