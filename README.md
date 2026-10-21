@@ -1,4 +1,4 @@
-# 11 free, private web tools that run in your browser
+# 21 free, private web tools that run in your browser
 
 Single-purpose tools for images, PDFs, developers, text, data, audio and design. Every one is free, open source (MIT), runs entirely in your browser, needs no account, shows no ads and works offline after the first visit. Nothing you drop on a page is ever uploaded. Each tool is a free alternative to a paid or upload-based web tool you may already know.
 
@@ -8,6 +8,11 @@ Single-purpose tools for images, PDFs, developers, text, data, audio and design.
 
 - [Images](#images) (1)
 - [PDF](#pdf) (10)
+- [Developer Tools](#developer-tools) (5)
+- [Text & Writing](#text-writing) (2)
+- [Data & Files](#data-files) (1)
+- [Privacy & Security](#privacy-security) (1)
+- [Productivity & Time](#productivity-time) (1)
 
 ## Images
 
@@ -33,6 +38,51 @@ Merge, split, compress and rework PDFs on your own device.
 | <img src="https://turhe123.github.io/pdf-merge-private/icon.svg" width="28" alt=""> | **[Private PDF Merger](https://turhe123.github.io/pdf-merge-private/)** | Combine several PDFs into one file in your browser, with drag to reorder and nothing uploaded. | iLovePDF Merge PDF | [Open](https://turhe123.github.io/pdf-merge-private/) · [GitHub](https://github.com/turhe123/pdf-merge-private) |
 | <img src="https://turhe123.github.io/sign-pdf-private/icon.svg" width="28" alt=""> | **[Private PDF Signer](https://turhe123.github.io/sign-pdf-private/)** | Draw or type your signature and place it on a PDF page in your browser, with no account and no upload. | Smallpdf eSign PDF and DocuSign free plan | [Open](https://turhe123.github.io/sign-pdf-private/) · [GitHub](https://github.com/turhe123/sign-pdf-private) |
 | <img src="https://turhe123.github.io/split-pdf-pages-local/icon.svg" width="28" alt=""> | **[Split PDF by Pages](https://turhe123.github.io/split-pdf-pages-local/)** | Split a PDF into single pages or custom ranges in your browser and save them as a ZIP, nothing uploaded. | Smallpdf Split PDF | [Open](https://turhe123.github.io/split-pdf-pages-local/) · [GitHub](https://github.com/turhe123/split-pdf-pages-local) |
+
+## Developer Tools
+
+Formatters, decoders, testers and generators for everyday coding.
+
+| | Tool | What it does | Free alternative to | Links |
+|---|---|---|---|---|
+| <img src="https://turhe123.github.io/cron-expression-explainer/icon.svg" width="28" alt=""> | **[Cron Expression Explainer](https://turhe123.github.io/cron-expression-explainer/)** | Turn a cron expression into plain English and see its next run times in your browser. | [removed].guru and cron expression generators | [Open](https://turhe123.github.io/cron-expression-explainer/) · [GitHub](https://github.com/turhe123/cron-expression-explainer) |
+| <img src="https://turhe123.github.io/json-formatter-validator/icon.svg" width="28" alt=""> | **[JSON Formatter and Validator](https://turhe123.github.io/json-formatter-validator/)** | Format, validate and minify JSON with exact error lines in your browser, nothing sent anywhere. | JSONLint | [Open](https://turhe123.github.io/json-formatter-validator/) · [GitHub](https://github.com/turhe123/json-formatter-validator) |
+| <img src="https://turhe123.github.io/jwt-decoder-local/icon.svg" width="28" alt=""> | **[JWT Decoder and Inspector](https://turhe123.github.io/jwt-decoder-local/)** | Decode a JWT and read its claims and expiry in your browser, the token never leaves the page. | jwt.io | [Open](https://turhe123.github.io/jwt-decoder-local/) · [GitHub](https://github.com/turhe123/jwt-decoder-local) |
+| <img src="https://turhe123.github.io/regex-tester-local/icon.svg" width="28" alt=""> | **[Regex Tester with Explanation](https://turhe123.github.io/regex-tester-local/)** | Test regular expressions live with highlighted matches and groups in your browser, no account. | regex101 | [Open](https://turhe123.github.io/regex-tester-local/) · [GitHub](https://github.com/turhe123/regex-tester-local) |
+| <img src="https://turhe123.github.io/yaml-json-converter/icon.svg" width="28" alt=""> | **[YAML and JSON Converter](https://turhe123.github.io/yaml-json-converter/)** | Validate YAML and convert it to JSON and back in your browser with exact error lines. | Online YAML parsers and YAML to JSON sites | [Open](https://turhe123.github.io/yaml-json-converter/) · [GitHub](https://github.com/turhe123/yaml-json-converter) |
+
+## Text & Writing
+
+Count, clean, convert and compare text.
+
+| | Tool | What it does | Free alternative to | Links |
+|---|---|---|---|---|
+| <img src="https://turhe123.github.io/invisible-character-cleaner/icon.svg" width="28" alt=""> | **[Invisible Character Cleaner](https://turhe123.github.io/invisible-character-cleaner/)** | Find and remove zero-width spaces and hidden Unicode characters from pasted text in your browser, nothing uploaded. | Originality.ai Invisible Text Detector and DevToolLab Invisible Character Remover | [Open](https://turhe123.github.io/invisible-character-cleaner/) · [GitHub](https://github.com/turhe123/invisible-character-cleaner) |
+| <img src="https://turhe123.github.io/remove-duplicate-lines/icon.svg" width="28" alt=""> | **[Remove Duplicate Lines and Sort](https://turhe123.github.io/remove-duplicate-lines/)** | Remove duplicate lines, sort and clean a list in your browser, with a count of what was removed and nothing uploaded. | Dedupelist and TextFixer Remove Duplicate Lines | [Open](https://turhe123.github.io/remove-duplicate-lines/) · [GitHub](https://github.com/turhe123/remove-duplicate-lines) |
+
+## Data & Files
+
+CSV, JSON, spreadsheets, archives, checksums and codes.
+
+| | Tool | What it does | Free alternative to | Links |
+|---|---|---|---|---|
+| <img src="https://turhe123.github.io/csv-to-json-converter/icon.svg" width="28" alt=""> | **[CSV to JSON Converter](https://turhe123.github.io/csv-to-json-converter/)** | Convert CSV files to JSON, and back, with delimiter detection in your browser, no upload. | ConvertCSV and CSVJSON online converters | [Open](https://turhe123.github.io/csv-to-json-converter/) · [GitHub](https://github.com/turhe123/csv-to-json-converter) |
+
+## Privacy & Security
+
+Encryption, metadata removal and clean links.
+
+| | Tool | What it does | Free alternative to | Links |
+|---|---|---|---|---|
+| <img src="https://turhe123.github.io/file-hash-checker/icon.svg" width="28" alt=""> | **[File Hash and Checksum Calculator](https://turhe123.github.io/file-hash-checker/)** | Compute MD5, SHA-1, SHA-256 and SHA-512 for text or files in your browser and compare with a known hash. | Online MD5 and SHA hash generators and file checksum sites | [Open](https://turhe123.github.io/file-hash-checker/) · [GitHub](https://github.com/turhe123/file-hash-checker) |
+
+## Productivity & Time
+
+Timers, clocks, notes and planners that live in your browser.
+
+| | Tool | What it does | Free alternative to | Links |
+|---|---|---|---|---|
+| <img src="https://turhe123.github.io/unix-timestamp-converter/icon.svg" width="28" alt=""> | **[Unix Timestamp Converter](https://turhe123.github.io/unix-timestamp-converter/)** | Convert Unix timestamps to dates and back across time zones in your browser, with batch support. | EpochConverter and unixtimestamp.com | [Open](https://turhe123.github.io/unix-timestamp-converter/) · [GitHub](https://github.com/turhe123/unix-timestamp-converter) |
 
 
 ## How these were built
