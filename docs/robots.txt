@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://turhe123.github.io/web-tools/sitemap.xml
